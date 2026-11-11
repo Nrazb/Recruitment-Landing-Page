@@ -17,6 +17,8 @@ Landing page untuk menampilkan informasi peluang karier dan posisi pekerjaan yan
 - Web browser.
 - Koneksi internet untuk memuat Tailwind CSS CDN dan Google Fonts.
 
+**Link Akses Website : https://sk-recruitment.free.je/**
+
 **Menjalankan secara lokal:**
 
 1. Download atau extract folder project.
